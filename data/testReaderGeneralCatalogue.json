@@ -1,0 +1,25 @@
+{
+    "albums": [
+        {
+            "month": 10,
+            "artist": "Radiohead",
+            "year": 2007,
+            "favouriteStatus": false,
+            "name": "In Rainbows",
+            "genre": "Alternative",
+            "rating": 0,
+            "day": 10
+        },
+        {
+            "month": 2,
+            "artist": "Lamp",
+            "year": 2004,
+            "favouriteStatus": true,
+            "name": "For Lovers",
+            "genre": "Shibuya-Kei",
+            "rating": 3,
+            "day": 11
+        }
+    ],
+    "name": "My Catalogue"
+}
