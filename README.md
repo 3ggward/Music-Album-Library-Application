@@ -1,7 +1,7 @@
 # Music Album library App
 
 ## What will the application do?
-This application will act as a **music album library/cataloger**, allowing users to log the albums they have listened to, or own, to their personal library. You can enter information about the albums, like album name, artist, song list, genre, and year released, and set an image as the album cover. Possible features include rating albums on a scale from 1 to 5 stars or marking down albums as your *favourites*.
+This application will act as a **music album library/cataloger**, allowing users to log the albums they have listened to, or own, to their personal library. You can enter information about the albums, like album name, artist, genre, and date released. Possible features include rating albums on a scale from 1 to 5 stars or marking down albums as your *favourites*.
 
 ## Who will use it?
 This application is useful for anyone who enjoys music, and wish to track the albums they have listened to, wish to listen to, or perhaps physically own, and rate them. 
